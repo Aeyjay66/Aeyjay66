@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aeyjay66
+- 👋 Hi, I’m Mutiah Giwa
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML,CSS & JAVASCRIPT
 - 💞️ I’m looking to collaborate with people soon
